@@ -1,6 +1,6 @@
 # Exploratory Data Analysis With Python and Pandas Guided Project
 
-This repository hosts the materials covered in the Coursera Project Network's guided project: [Exploratory Data Analysis with Python and Pandas.](https://www.coursera.org/projects/exploratory-data-analysis-python-pandas)
+This repository hosts the materials covered in the Coursera Project Network's guided project: ["Exploratory Data Analysis with Python and Pandas"](https://www.coursera.org/projects/exploratory-data-analysis-python-pandas)
 
 In this project, you will learn:
 
